@@ -1,9 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
 <h1 align="center">Hi 👋, I'm George Avong</h1>
 <h3 align="center">An enthusiast for tech</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeuB7nK-6jvlk8hWT6IW46gGEq_WqQtKI4tQ&usqp=CAU">
 
 
-<img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avonggeorge&label=Profile%20views&color=0e75b6&style=flat" alt="avonggeorge" /> </p>
 
