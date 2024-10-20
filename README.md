@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **ALX-Software_engineering-program**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Backend python, Javascript and Database**
 
 - 💬 Ask me about **C , Shell , Linux**
 
