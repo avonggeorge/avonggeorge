@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Backend python, Javascript and Databases**
 
-- 💬 Ask me about **C , Shell , Linux**
+- 💬 Ask me about **C , Shell , Linux , Python , JavaScript**
 
 - ⚡ Fun fact **A funny dancer**
 
